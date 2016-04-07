@@ -1,0 +1,46 @@
+body{
+	margin-left: 100px;
+	margin-right: 200px;
+}
+h2{ 
+margin-left: 100px;
+margin-top: 50px;
+ }
+ .linea {
+ 	border:2px solid black;
+ 	margin-top: 20px;
+ 	width: 100px;
+ }
+.fotos {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	display: inline-block;
+	left: 120px;
+	margin-right: 20px;
+	}
+img { 
+	width: 200px;
+	height: 200px;
+		 }
+#nombre {
+	position: relative;
+	top: 215px;
+	left: 80px;
+	color: #01DFD7;
+}
+#nombre1{
+		position: relative;
+		top: 215px;
+		left: 100px;
+		color: #01DFD7;
+	}
+#hijo {
+	position: absolute;
+	top: 50px;
+	left: 1px;
+	width: 200px;
+	height: 200px;
+	background-color: black;
+	opacity: 0.4;
+}
